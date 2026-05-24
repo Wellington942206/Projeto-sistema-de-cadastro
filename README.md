@@ -1,2 +1,4 @@
 # Projeto-sistema-de-cadastro
-Sistema Mini CRM (Customer Relationship Management) desenvolvido com foco em simular um ambiente corporativo real, permitindo o gerenciamento eficiente de clientes e suas interações.  A aplicação foi construída utilizando HTML, CSS, JavaScript e PHP, com armazenamento de dados em arquivo Excel (formato CSV).
+Sistema Mini CRM (Customer Relationship Management) desenvolvido com foco no gerenciamento da agenda de um palestrante, permitindo organizar compromissos, eventos, clientes e informações de contato de forma prática e eficiente. A aplicação simula um ambiente corporativo real, auxiliando no controle de palestras, reuniões, datas agendadas, locais de eventos e acompanhamento de solicitações.
+
+O projeto está sendo desenvolvido utilizando HTML, CSS, JavaScript e PHP, com integração a banco de dados MySQL para armazenamento e gerenciamento das informações. O sistema contará com funcionalidades como cadastro de clientes e eventos, gerenciamento de agenda, consultas, edições e exclusão de registros, além de uma interface moderna, responsiva e intuitiva para facilitar a administração das atividades do palestrante.
